@@ -1,7 +1,26 @@
 <img src="https://drive.google.com/uc?id=1tCXsv0yanvQqncB9ke8x6fCKonu4z4iB" alt="TorchDEQ Logo" width="65" align="left"><div align="center"><h1>TorchDEQ: A Library for Deep Equilibrium Models</h1></div>
 
 <p align="center">
-| <a href=""><b>Documentation</b></a> | <a href="https://colab.research.google.com/drive/12HiUnde7qLadeZGGtt7FITnSnbUmJr-I?usp=sharing"><b>Colab Tutorial</b></a> | <a href=""><b>DEQ Zoo</b></a>  | <a href="TODO.md"><b>Roadmap</b></a> | <a href="README.md#citation"><b>Citation</b></a> |
+    <a href="LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" height="20">
+    </a>
+    <a href="https://pypi.org/project/torchdeq/">
+        <img src="https://img.shields.io/pypi/v/torchdeq" alt="pypi"heigh="20">
+    </a>
+    <a href='https://torchdeq.readthedocs.io/en/latest/?badge=latest'>
+        <img src='https://readthedocs.org/projects/torchdeq/badge/?version=latest' alt='Documentation Status' />
+    </a>
+</p>
+
+<p align="center">
+<a href="https://torchdeq.readthedocs.io/en/latest/get_started.html"><b>Documentation</b></a> 
+• 
+<a href="https://colab.research.google.com/drive/12HiUnde7qLadeZGGtt7FITnSnbUmJr-I?usp=sharing"><b>Colab Tutorial</b></a> •
+<a href="https://torchdeq.readthedocs.io/en/latest/deq-zoo/model.html"><b>DEQ Zoo</b></a>
+•
+<a href="TODO.md"><b>Roadmap</b></a> 
+• 
+<a href="README.md#citation"><b>Citation</b></a>  
 </p>
 
 ## Introduction
