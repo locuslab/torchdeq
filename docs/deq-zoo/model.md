@@ -19,7 +19,7 @@ where Attention is MultiHead Decoder Attention, FFN is a 2-layer feed-forward ne
 In DEQ Zoo, we implement the DEQ transformer and benchmark it through the word-level language modeling on WikiText-103~\cite{wiki}. The model details and training protocols are redesigned based on TorchDEQ.
 
 - [`deq-seq`](https://github.com/locuslab/torchdeq/tree/main/deq-zoo/deq-seq): Language modeling on WikiText-103. Implementation using Pytorch DataParallel.
-- [`deq-lm`]((https://github.com/locuslab/torchdeq/tree/main/deq-zoo/deq-seq)): Faster & updated implementation using PyTorch Distributed Data Parallel (DDP) framework. This is the recommended version.
+- [`deq-lm`](https://github.com/locuslab/torchdeq/tree/main/deq-zoo/deq-lm): Faster & updated implementation using PyTorch Distributed Data Parallel (DDP) framework. This is the recommended version.
 
 ## MDEQ
 
