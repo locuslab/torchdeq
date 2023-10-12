@@ -1,0 +1,29 @@
+batch_size: -1
+experiment_id: representation
+dataset: celeba
+lr: 0.003
+lr_decay: 1.
+device: cuda
+filters: 
+  - fourier
+  - gabor
+  - siren_like
+network_specs: 
+-
+  - 1
+  - 128
+-
+  - 1
+  - 256
+-
+  - 4
+  - 128
+input_scale: 64.
+f_solver: fixed_point_iter
+f_max_iter: 100
+grad: 3
+no_skip_solver: false
+max_train_iters: 3000
+log_freq: 50
+verbose: false
+continue_run: false

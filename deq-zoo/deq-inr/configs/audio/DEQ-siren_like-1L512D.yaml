@@ -1,0 +1,11 @@
+model_type: implicit
+gabor_alpha: 3.0
+lr: 0.001
+filter_type: siren_like
+n_layers: 1
+interm_channels: 512
+use_implicit: true
+input_scale: 25000.0
+experiment_id: DEQ-siren_like-1L512D
+grad: 3
+norm_type: weight_norm

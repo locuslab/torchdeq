@@ -1,0 +1,25 @@
+Parameter Count: 5.243 M
+Load from val_checkpoints/deq-flow-B-things-1.pth
+Validation KITTI: EPE: 4.456 (4.456), F1: 14.18 (14.18)
+Validation (clean) EPE: 1.386 (1.386), 1px: 90.97, 3px: 95.96, 5px: 97.08
+Validation (final) EPE: 2.774 (2.774), 1px: 85.79, 3px: 92.03, 5px: 93.83
+Parameter Count: 5.243 M
+Load from val_checkpoints/deq-flow-B-things-2.pth
+Validation KITTI: EPE: 4.597 (4.597), F1: 15.12 (15.12)
+Validation (clean) EPE: 1.435 (1.435), 1px: 90.70, 3px: 95.87, 5px: 97.00
+Validation (final) EPE: 2.741 (2.741), 1px: 85.63, 3px: 92.08, 5px: 93.93
+Parameter Count: 13.395 M
+Load from val_checkpoints/deq-flow-H-things-test-1x.pth
+Validation KITTI: EPE: 3.764 (3.764), F1: 12.97 (12.97)
+Validation (clean) EPE: 1.267 (1.267), 1px: 91.49, 3px: 96.19, 5px: 97.24
+Validation (final) EPE: 2.589 (2.589), 1px: 86.47, 3px: 92.51, 5px: 94.21
+Parameter Count: 13.395 M
+Load from val_checkpoints/deq-flow-H-things-test-3x.pth
+Validation KITTI: EPE: 3.866 (3.866), F1: 13.53 (13.53)
+Validation (clean) EPE: 1.271 (1.271), 1px: 91.87, 3px: 96.38, 5px: 97.38
+Validation (final) EPE: 2.497 (2.497), 1px: 86.75, 3px: 92.69, 5px: 94.43
+Parameter Count: 13.395 M
+Load from val_checkpoints/deq-flow-H-things-test-3x.pth
+Validation KITTI: EPE: 3.766 (3.766), F1: 13.41 (13.41)
+Validation (clean) EPE: 1.274 (1.274), 1px: 91.87, 3px: 96.38, 5px: 97.39
+Validation (final) EPE: 2.477 (2.477), 1px: 86.78, 3px: 92.74, 5px: 94.49

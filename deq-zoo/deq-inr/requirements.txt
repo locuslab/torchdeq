@@ -1,0 +1,9 @@
+torch>=1.11.0
+scikit-image
+scikit-video
+trimesh
+plyfile
+scipy
+numpy
+matplotlib
+configargparse

@@ -1,0 +1,23 @@
+batch_size: -1
+experiment_id: generalization
+dataset: nature
+lr: 0.001
+lr_decay: 1.
+device: cuda
+filters: 
+  - siren_like
+network_specs: 
+-
+  - 1
+  - 512
+input_scale: 128.
+no_skip_solver: false
+max_train_iters: 500
+log_freq: 50
+verbose: false
+continue_run: false
+f_solver: fixed_point_iter
+f_max_iter: 100
+f_tol: 0.001
+f_stop_mode: abs
+grad: 3

@@ -1,0 +1,17 @@
+model_type: implicit
+gabor_alpha: 3.0
+lr: 0.001
+filter_type: siren_like
+n_layers: 1
+interm_channels: 2048
+use_implicit: true
+input_scale: 128
+experiment_id: DEQ-siren_like-1L2048D
+f_solver: fixed_point_iter
+f_max_iter: 20
+f_stop_mode: rel
+f_tol: 1e-6
+grad: 3
+n_states: 2
+norm_type: weight_norm
+
