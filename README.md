@@ -67,7 +67,7 @@ deq = get_deq(args)
 - Easy DEQ forward. Even for a multi-equilibria system, you can execute your DEQ forward in a single line!
 
 ```Python
-# Assume f is a functioin of three tensors a, b, c.
+# Assume f is a function of three tensors a, b, c.
 def fn(a, b, c):
     # Do something here...
     # Having the same input and output tensor shapes.
